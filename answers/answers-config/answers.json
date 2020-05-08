@@ -1,0 +1,143 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/answers-config/v1",
+  "$id": "answers",
+  "name": "answers",
+  "supportedLocales": [],
+  "countryRestrictions": [],
+  "verticals": {
+    "communityStories": {
+      "entityTypes": [
+        "ce_communityStory"
+      ],
+      "keywords": [],
+      "name": "Community Stories",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_goal": {
+          "textSearch": true
+        },
+        "c_theme": {
+          "nlpFilter": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "events": {
+      "entityTypes": [
+        "event"
+      ],
+      "keywords": [],
+      "name": "Events",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "faqs": {
+      "entityTypes": [
+        "faq"
+      ],
+      "keywords": [],
+      "name": "FAQs",
+      "savedSearchId": "100108258",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "restaurants": {
+      "entityTypes": [
+        "restaurant"
+      ],
+      "keywords": [],
+      "name": "Restaurants",
+      "savedSearchId": "98747710",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "nlpFilter": true
+        },
+        "c_promotingEvents.name": {
+          "nlpFilter": true
+        },
+        "c_restaurantFeatures": {
+          "nlpFilter": true
+        },
+        "mainPhone": {
+          "directAnswer": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    }
+  },
+  "autocomplete": {
+    "disablePopularQueries": false,
+    "hardcodedPrompts": [
+      "Restaurants near me",
+      "Do you offer delivery?",
+      "Events",
+      "Do you sell gift cards?",
+      "Community stories"
+    ]
+  },
+  "synonyms": {
+    "oneWay": [
+      {
+        "phrase": "location",
+        "synonyms": [
+          "restaurant"
+        ]
+      },
+      {
+        "phrase": "nest",
+        "synonyms": [
+          "restaurant"
+        ]
+      },
+      {
+        "phrase": "order online",
+        "synonyms": [
+          "delivery"
+        ]
+      }
+    ],
+    "synonymSet": [
+      [
+        "location",
+        "restaurant",
+        "food joint",
+        "taco shop",
+        "eatery",
+        "locations"
+      ]
+    ]
+  },
+  "localizations": {}
+}
