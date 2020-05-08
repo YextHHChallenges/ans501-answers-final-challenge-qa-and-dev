@@ -14,7 +14,7 @@
     }
   },
   "repoConfig": {
-    "targetRepoName": "$answers-hitchhiker-training.turtleheadtacos-${{businessId}}.com",
+    "targetRepoName": "answers-hitchhiker-training.turtleheadtacos-${{businessId}}.com",
     "templateRepo": "github.com/big-ol-sandbox/answers-hitchhiker-training.turtleheadtacos-ANS501.com"
   },
   "siteName": "Turtlehead Tacos Answers"
