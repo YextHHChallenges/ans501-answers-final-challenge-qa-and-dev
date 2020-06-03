@@ -1,8 +1,7 @@
 {
-  "$id": "activeOnAnswers",
+  "$id": "c_activeOnAnswers",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Active On Answers",
-  "apiName": "c_activeOnAnswers",
   "description": "",
   "typeId": "yext/boolean",
   "type": {

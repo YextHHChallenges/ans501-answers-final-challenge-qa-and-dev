@@ -1,8 +1,7 @@
 {
-  "$id": "jobPhoto",
+  "$id": "c_jobPhoto",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Job Photo",
-  "apiName": "c_jobPhoto",
   "description": "",
   "typeId": "yext/image",
   "type": {

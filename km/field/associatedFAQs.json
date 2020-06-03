@@ -1,8 +1,7 @@
 {
-  "$id": "associatedFAQs",
+  "$id": "c_associatedFAQs",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Associated FAQs",
-  "apiName": "c_associatedFAQs",
   "description": "",
   "typeId": "yext/list",
   "type": {

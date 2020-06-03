@@ -5,7 +5,7 @@
   "filter": {
     "entityField": [
       {
-        "fieldId": "activeOnAnswers",
+        "fieldId": "c_activeOnAnswers",
         "searchBool": "TRUE"
       }
     ],

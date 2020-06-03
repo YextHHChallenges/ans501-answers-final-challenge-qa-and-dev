@@ -1,8 +1,7 @@
 {
-  "$id": "jobDepartment",
+  "$id": "c_jobDepartment",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Job Department",
-  "apiName": "c_jobDepartment",
   "description": "",
   "typeId": "yext/option",
   "type": {

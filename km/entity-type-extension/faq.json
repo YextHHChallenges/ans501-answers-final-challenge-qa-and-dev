@@ -5,11 +5,11 @@
   "enabled": true,
   "field": [
     {
-      "id": "activeOnAnswers",
+      "id": "c_activeOnAnswers",
       "required": false
     },
     {
-      "id": "primaryCTA",
+      "id": "c_primaryCTA",
       "required": false
     }
   ]
