@@ -1,7 +1,6 @@
 {
   "$id": "CS-2",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
-  "entityType": "ce_communityStory",
   "content": {
     "c_goal": "Outdoor fun and feast",
     "c_localNonProfits": [
@@ -15,5 +14,7 @@
     "yext/landingPageUrl": "http://turtleheadtacos.com/outdoorextension",
     "yext/name": "Turtlehead Partners with Environment Extension",
     "yext/organizerEmail": "jjohnson@turtleheadtacos.com"
-  }
+  },
+  "entityType": "ce_communityStory",
+  "labels": []
 }

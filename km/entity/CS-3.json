@@ -1,7 +1,6 @@
 {
   "$id": "CS-3",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
-  "entityType": "ce_communityStory",
   "content": {
     "c_goal": "Help feed for the future",
     "c_localNonProfits": [
@@ -15,5 +14,7 @@
     "yext/landingPageUrl": "http://www.turtleheadtacos.com/thankyoufarmersproject",
     "yext/name": "Thank you Farmers Project",
     "yext/organizerEmail": "jjohnson@turtleheadtacos.com"
-  }
+  },
+  "entityType": "ce_communityStory",
+  "labels": []
 }

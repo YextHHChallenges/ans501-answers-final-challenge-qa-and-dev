@@ -1,12 +1,10 @@
 {
   "$id": "Turtlehead Tacos Answers",
   "$schema": "https://schema.yext.com/config/pages/site-config/v1",
-  "domainConfig": {
-    "hostName": "answers-turtleheadtacos-${{businessId}}.landingpagessbx.yextengtest.com"
-  },
+  "domain": "answers-domain",
   "features": [],
   "publishingConfig": {
-    "pinnedProductionBranchName": "refs/heads/master",
+    "pinnedProductionBranchName": "refs/tags/master",
     "pinnedStagingBranchName": "refs/heads/master",
     "stagingCredentials": {
       "password": "test",
@@ -15,7 +13,7 @@
   },
   "repoConfig": {
     "targetRepoName": "answers-hitchhiker-training.turtleheadtacos-${{businessId}}.com",
-    "templateRepo": "github.com/big-ol-sandbox/answers-hitchhiker-training.turtleheadtacos-ANS501.com"
+    "templateRepo": "github.com/big-ol-sandbox/answers-hitchhiker-training.turtleheadtacos-ANS280.com"
   },
   "siteName": "Turtlehead Tacos Answers"
 }

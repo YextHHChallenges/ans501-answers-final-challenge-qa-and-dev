@@ -9,7 +9,6 @@
       "entityTypes": [
         "ce_communityStory"
       ],
-      "keywords": [],
       "name": "Community Stories",
       "searchableFields": {
         "builtin.entityType": {
@@ -32,7 +31,6 @@
       "entityTypes": [
         "event"
       ],
-      "keywords": [],
       "name": "Events",
       "searchableFields": {
         "builtin.entityType": {
@@ -49,9 +47,8 @@
       "entityTypes": [
         "faq"
       ],
-      "keywords": [],
       "name": "FAQs",
-      "savedSearchId": "100108258",
+      "savedSearchId": "121202151",
       "searchableFields": {
         "builtin.entityType": {
           "nlpFilter": true
@@ -70,9 +67,8 @@
       "entityTypes": [
         "restaurant"
       ],
-      "keywords": [],
       "name": "Restaurants",
-      "savedSearchId": "98747710",
+      "savedSearchId": "112002255",
       "searchableFields": {
         "builtin.entityType": {
           "nlpFilter": true
@@ -109,12 +105,6 @@
   },
   "synonyms": {
     "oneWay": [
-      {
-        "phrase": "location",
-        "synonyms": [
-          "restaurant"
-        ]
-      },
       {
         "phrase": "nest",
         "synonyms": [

@@ -1,8 +1,8 @@
 {
   "$id": "job",
   "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
-  "entityType": "yext/job",
   "enabled": true,
+  "entityType": "yext/job",
   "field": [
     {
       "id": "c_associatedFAQs",

@@ -1,7 +1,6 @@
 {
   "$id": "CS-1",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
-  "entityType": "ce_communityStory",
   "content": {
     "c_goal": "Save the turtles",
     "c_localNonProfits": [
@@ -15,5 +14,8 @@
     "yext/landingPageUrl": "http://turtleheadtacos.com/savetheturtles",
     "yext/name": "Save the Turtles",
     "yext/organizerEmail": "jjohnson@turtleheadtacos.com"
-  }
+  },
+  "entityType": "ce_communityStory",
+  "folder": "c8cf0b5f855c4a98b4b08cdb5916d685",
+  "labels": []
 }
