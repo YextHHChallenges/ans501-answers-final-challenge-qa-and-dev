@@ -1,5 +1,5 @@
 {
-  "$id": "Answers Results Template",
+  "$id": "Answers_Results_Template",
   "$schema": "https://schema.yext.com/config/pages/page-builder-template/v1",
   "EntityTypeName": "",
   "PageSetConfig": {
@@ -370,5 +370,6 @@
     "Theme": "cosmo",
     "ThemeVersion": 1
   },
-  "PageSetType": "SINGLE_PAGE"
+  "PageSetType": "SINGLE_PAGE",
+  "Name": "Answers Results Template"
 }
