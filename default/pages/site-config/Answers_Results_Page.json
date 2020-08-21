@@ -1,11 +1,11 @@
 {
-  "$id": "Turtlehead Tacos Restaurants",
+  "$id": "Answers_Results_Page",
   "$schema": "https://schema.yext.com/config/pages/site-config/v1",
   "features": [
     {
-      "feature": "Turtlehead_Tacos_Restaurant_Pages",
+      "feature": "Answers_Results_Template",
       "featureType": "SELF_SERVE_PAGE_SET"
     }
   ],
-  "siteName": "Turtlehead Tacos Restaurants"
+  "siteName": "Answers Results Page"
 }
