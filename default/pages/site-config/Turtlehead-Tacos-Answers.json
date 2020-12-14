@@ -1,5 +1,5 @@
 {
-  "$id": "Turtlehead_Tacos_Answers",
+  "$id": "Turtlehead-Tacos-Answers",
   "$schema": "https://schema.yext.com/config/pages/site-config/v1",
   "domain": "answers-domain",
   "features": [],

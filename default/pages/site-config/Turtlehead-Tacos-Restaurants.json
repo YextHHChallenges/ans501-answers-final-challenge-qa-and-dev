@@ -1,11 +1,11 @@
 {
-  "$id": "Turtlehead_Tacos_Jobs",
+  "$id": "Turtlehead-Tacos-Restaurants",
   "$schema": "https://schema.yext.com/config/pages/site-config/v1",
   "features": [
     {
-      "feature": "Jobs_Landing_Pages",
+      "feature": "Turtlehead-Tacos-Restaurant-Pages",
       "featureType": "SELF_SERVE_PAGE_SET"
     }
   ],
-  "siteName": "Turtlehead Tacos Jobs"
+  "siteName": "Turtlehead Tacos Restaurants"
 }

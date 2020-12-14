@@ -1,11 +1,11 @@
 {
-  "$id": "Answers_Results_Page",
+  "$id": "Turtlehead-Tacos-Jobs",
   "$schema": "https://schema.yext.com/config/pages/site-config/v1",
   "features": [
     {
-      "feature": "Answers_Results_Template",
+      "feature": "Jobs-Landing-Pages",
       "featureType": "SELF_SERVE_PAGE_SET"
     }
   ],
-  "siteName": "Answers Results Page"
+  "siteName": "Turtlehead Tacos Jobs"
 }
