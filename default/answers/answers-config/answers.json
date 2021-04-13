@@ -5,7 +5,7 @@
   "supportedLocales": [],
   "countryRestrictions": [],
   "verticals": {
-    "communityStories": {
+    "community_stories": {
       "entityTypes": [
         "ce_communityStory"
       ],
@@ -56,6 +56,25 @@
         "keywords": {
           "textSearch": true
         },
+        "question": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "help_articles": {
+      "entityTypes": [
+        "helpArticle"
+      ],
+      "name": "Help Articles",
+      "searchableFields": {
+        "body": {
+          "documentSearch": true
+        },
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
         "name": {
           "textSearch": true
         }
@@ -100,7 +119,8 @@
       "Do you offer delivery?",
       "Events",
       "Do you sell gift cards?",
-      "Community stories"
+      "Community stories",
+      "Where to redeem gift cards"
     ],
     "verticalPrompts": {
       "faqs": [
@@ -109,7 +129,10 @@
       "events": [
         "[[name]]"
       ],
-      "communityStories": [
+      "community_stories": [
+        "[[name]]"
+      ],
+      "help_articles": [
         "[[name]]"
       ],
       "restaurants": [
