@@ -1,5 +1,5 @@
 {
-  "$id": "Turtlehead-Tacos-Answers",
+  "$id": "Turtlehead-Tacos-Search",
   "$schema": "https://schema.yext.com/config/pages/site-config/v1",
   "domain": "answers-domain",
   "features": [],
@@ -15,5 +15,5 @@
     "targetRepoName": "answers-hitchhiker-training.turtleheadtacos-${{businessId}}.com",
     "templateRepo": "github.com/big-ol-sandbox/answers-hitchhiker-training.turtleheadtacos-ANS280.com"
   },
-  "siteName": "Turtlehead Tacos Answers"
+  "siteName": "Turtlehead Tacos Search"
 } 
