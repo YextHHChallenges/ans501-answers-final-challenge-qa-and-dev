@@ -1,5 +1,5 @@
 {
-  "$id": "Answers-Results-Template",
+  "$id": "Search-Results-Template",
   "$schema": "https://schema.yext.com/config/pages/page-builder-template/v1",
   "EntityTypeName": "",
   "PageSetConfig": {
