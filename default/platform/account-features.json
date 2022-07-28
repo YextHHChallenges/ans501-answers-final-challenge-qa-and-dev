@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.yext.com/config/platform/account-features/v1",
-  "enabled": [],
+  "enabled": [555,546,538,535,465,363,565,551,560,561,559,542,550,556,547,553,573,562,548,450,528,564],
   "disabled": [
     50
     
