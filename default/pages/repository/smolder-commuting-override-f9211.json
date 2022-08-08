@@ -1,6 +1,6 @@
 {
     "$id": "smolder-commuting-override-f9211",
     "$schema": "https://schema.yext.com/config/pages/repository/v1",
-    "repoUrl": "github.com/newpaper-fur-noise/answers-hitchhiker-training.turtleheadtacos-${{businessId}}.com",
-    "templateRepo": "github.com/newpaper-fur-noise/answers-hitchhiker-training.turtleheadtacos-ANS280.com"
+    "repoUrl": "github.com/newspaper-fur-noise/answers-hitchhiker-training.turtleheadtacos-${{businessId}}.com",
+    "templateRepo": "github.com/newspaper-fur-noise/answers-hitchhiker-training.turtleheadtacos-ANS280.com"
   }
