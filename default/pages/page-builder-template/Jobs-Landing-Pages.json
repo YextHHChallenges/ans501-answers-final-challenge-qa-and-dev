@@ -333,7 +333,7 @@
                   "ExternalEntityId": "",
                   "InputType": "",
                   "SelectedField": [
-                    "answer"
+                    "answerV2"
                   ],
                   "Sink": "description"
                 },
